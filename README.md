@@ -1,1 +1,1 @@
-Data base client without entity framwork
+Клиент для работы с БД без использования ORM
